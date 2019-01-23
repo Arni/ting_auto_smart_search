@@ -1,0 +1,1 @@
+# ting_auto_smart_search
